@@ -8,7 +8,6 @@ import time
 import numpy as np
 import pandas as pd
 from tensorflow import keras
-import shutil
 
 # from statistics import mean
 # GPU settings
